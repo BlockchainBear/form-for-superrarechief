@@ -1,0 +1,7 @@
+Error: Command failed with exit code 1: yarn add @webiny/cwp-template-aws@latest
+Usage Error: The nearest package directory (/Users/m1/Documents/GitHub/form-for-superrarechief/my-new-project) doesn't seem to be part of the project declared in /Users/m1.
+
+- If the project directory is right, it might be that you forgot to list Documents/GitHub/form-for-superrarechief/my-new-project as a workspace.
+- If it isn't, it's likely because you have a yarn.lock or package.json file there, confusing the project root detection.
+
+$ yarn add [--json] [-E,--exact] [-T,--tilde] [-C,--caret] [-D,--dev] [-P,--peer] [-O,--optional] [--prefer-dev] [-i,--interactive] [--cached] ...
